@@ -179,13 +179,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Plotly** - For interactive visualizations
 - **Folium** - For map rendering
 
-## 📧 Contact
-
-For questions, suggestions, or support:
-- Email: support@ecosmart.example.com
-- Website: https://ecosmart.example.com
-- GitHub Issues: [Create an issue](https://github.com/your-repo/issues)
-
 ## 🗺️ Roadmap
 
 - [ ] Mobile app integration
