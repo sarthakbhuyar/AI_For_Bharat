@@ -62,77 +62,6 @@ A comprehensive, AI-powered waste management platform built with Streamlit that 
 - Quick action buttons
 - Chat history management
 
-## 🚀 Installation
-
-### Prerequisites
-- Python 3.8 or higher
-- pip package manager
-
-### Setup
-
-1. Clone the repository:
-```bash
-git clone <repository-url>
-cd ecosmart-waste-management
-```
-
-2. Install required dependencies:
-```bash
-pip install streamlit pandas numpy plotly folium streamlit-folium requests pillow google-generativeai
-```
-
-3. Configure API keys in `app.py`:
-```python
-OPENWEATHER_API_KEY = "your_openweather_api_key"
-GEMINI_API_KEY = "your_gemini_api_key"
-```
-
-### Getting API Keys
-
-**OpenWeather API:**
-1. Visit [OpenWeatherMap](https://openweathermap.org/api)
-2. Sign up for a free account
-3. Generate an API key from your dashboard
-
-**Google Gemini API:**
-1. Visit [Google AI Studio](https://makersuite.google.com/app/apikey)
-2. Sign in with your Google account
-3. Create a new API key
-
-## 📦 Dependencies
-
-```
-streamlit>=1.28.0
-pandas>=2.0.0
-numpy>=1.24.0
-plotly>=5.17.0
-folium>=0.14.0
-streamlit-folium>=0.15.0
-requests>=2.31.0
-Pillow>=10.0.0
-google-generativeai>=0.3.0
-```
-
-## 🎯 Usage
-
-1. Start the application:
-```bash
-streamlit run app.py
-```
-
-2. Open your browser and navigate to:
-```
-http://localhost:8501
-```
-
-3. Navigate through different sections using the sidebar menu
-
-4. Interact with features:
-   - Upload waste images for AI classification
-   - Monitor bin fill levels on the map
-   - Calculate ROI for waste-to-profit ventures
-   - Chat with the AI assistant for guidance
-
 ## 🏗️ Project Structure
 
 ```
@@ -285,4 +214,4 @@ For questions, suggestions, or support:
 
 ---
 
-Made with 💚 for a sustainable future | EcoSmart Solutions © 2024
+Made with ❤️ for a sustainable future | EcoSmart Solutions © 2026
